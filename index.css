@@ -241,8 +241,8 @@
     background-color: #fafbfd;
     clip-path: polygon(0 30%, 100% 0, 100% 100%, 0 100%);
     position: relative;
-    
 }
+
 .fourth-content-left{
     width: 50%;
     position: relative;
@@ -363,11 +363,12 @@
     position: absolute;
     bottom: 0;
     right: 0;
-    background-image: url("20240422T010622Z-001/Đề 4_assets/images/personal/testi-pet.png");
+    background-image: url("20240422T010622Z-001/De4_assets/images/personal/testi-pet.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100%;
+    background-color: #fafbfd;
+    height: 70%;
     width: 250px;
     z-index: -1;
 }
@@ -569,7 +570,7 @@
     right: -50px;
     width: 200px;
     height: 200px;
-    background-image: url("20240422T010622Z-001/Đề 4_assets/images/personal/testi-pet.png");
+    background-image: url("20240422T010622Z-001/De4_assets/images/personal/testi-pet.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
